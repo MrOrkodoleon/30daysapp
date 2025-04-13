@@ -1,3 +1,32 @@
 <resources>
-    <string name="app_name">30daysapp</string>
+    <string name="app_name">Music Theory 30 Days</string>
+
+    <string name="title_day_1">Day 1: What are Notes?</string>
+    <string name="desc_day_1">Introduction to musical notes (A, B, C, D, E, F, G) and their representation.</string>
+    <string name="title_day_2">Day 2: Clefs (Treble &amp; Bass)</string>
+    <string name="desc_day_2">Understanding the Treble Clef (G-clef) and Bass Clef (F-clef) and how they indicate pitch.</string>
+    <string name="title_day_3">Day 3: The Musical Staff</string>
+    <string name="desc_day_3">Learning about the 5 lines and 4 spaces of the staff and how notes are placed on it.</string>
+    <string name="title_day_4">Day 4: What is a Scale?</string>
+    <string name="desc_day_4">Introducing the concept of a musical scale - a sequence of notes ordered by pitch.</string>
+    <string name="title_day_5">Day 5: The Major Scale</string>
+    <string name="desc_day_5">Understanding the pattern of whole and half steps that make up a major scale (W-W-H-W-W-W-H).</string>
+    <string name="title_day_6">Day 6: Intervals</string>
+    <string name="desc_day_6">The distance in pitch between two notes. Introduction to basic intervals (seconds, thirds, etc.).</string>
+    <string name="title_day_7">Day 7: What are Chords?</string>
+    <string name="desc_day_7">Defining chords as combinations of three or more notes played simultaneously.</string>
+    <string name="title_day_8">Day 8: Basic Triads (Major &amp; Minor)</string>
+    <string name="desc_day_8">Building the most common type of chord - the triad. Constructing major and minor triads.</string>
+    <string name="title_day_9">Day 9: Introduction to Rhythm</string>
+    <string name="desc_day_9">Understanding rhythm as the pattern of durations of notes and silences in music.</string>
+    <string name="title_day_10">Day 10: Time Signatures (4/4)</string>
+    <string name="desc_day_10">Explaining the meaning of time signatures, focusing on the common 4/4 time (common time).</string>
+
+    <string name="title_day_placeholder">Day %1$d: Topic Title</string>
+    <string name="desc_day_placeholder">Detailed explanation for the topic of Day %1$d will go here. Keep learning!</string>
+
+    <string name="title_day_30">Day 30: Review &amp; Next Steps</string>
+    <string name="desc_day_30">Congratulations! You\'ve completed the 30-day basics. Review key concepts and explore further learning resources.</string>
+
+    <string name="topic_image_content_description">Image related to the music theory topic</string>
 </resources>
